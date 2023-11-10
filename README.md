@@ -1,16 +1,26 @@
-### Hi there 👋
+## 👋 Hello, I'm Mohamed Elshazle
+Passionate front-end developer with a love for creating engaging and responsive web applications. I specialize in [ python ,HTML, CSS, JavaScript, React], and I'm always eager to learn and adopt new technologies.
 
-<!--
-**Mo-Elshazle/Mo-Elshazle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- HTML5, CSS3, JavaScript ,python
+- React.js
+- Responsive Web Design
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Work Experience
+- still studing
+
+
+## 🌐 Projects
+- coming soooon
+
+
+## 🎓 Education
+-student at almdrasa.com
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/mohamed-elshazly-36719222a)
+mohamed-elshazly-36719222a
+- Email: m7md.elshazle@gmail.com
